@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @gauravdhama
-- 👀 I’m interested in Deep Learning, Machine Learning
-- 🌱 I’m currently learning Deep Reinforcement Learning
-- 💞️ I’m looking to collaborate on research papers, ml competitions
-- 📫 How to reach me - 
+Interested in Deep Learning, Machine Learning
+Currently working on Deep Reinforcement Learning, Bandit problems, Game Theory 
+Looking to collaborate on research papers, ml competitions or any interesting ML problem
 
 <!---
 gauravdhama/gauravdhama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
